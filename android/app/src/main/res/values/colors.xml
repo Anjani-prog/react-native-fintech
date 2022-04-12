@@ -1,0 +1,13 @@
+<resources>
+  <!-- We'll use 'background' name to reference this color for app all screens background -->
+   <color name="background">#010A43</color>
+ 
+ <!-- We'll use 'background' name to reference this color for app all screens ststubar-->
+   <color name="colorPrimaryDark">#010A43</color>
+
+ <!-- a secondary color for controls like checkboxes and text fields-->
+   <color name="colorAccent">#FFFFFF</color>
+
+    <color name="colorBackground">#e1d3b6</color>
+</resources>
+
